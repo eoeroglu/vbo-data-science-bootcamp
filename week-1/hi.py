@@ -1,0 +1,1 @@
+print('Ben Erdoğan Eroğlu. Ödev tamam.')
